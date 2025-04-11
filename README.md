@@ -24,6 +24,7 @@ composer require hizpark/file-uploader-contract
 namespace Hizpark\FileUploaderContract\Contracts;
 
 use Hizpark\FileUploaderContract\Contracts\UploadContextContract;
+use Hizpark\FileUploaderContract\Contracts\UploadedFileContract;
 use Hizpark\FileUploaderContract\Contracts\UploadedFileResultContract;
 
 interface FileUploaderContract
